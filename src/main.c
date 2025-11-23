@@ -50,7 +50,7 @@ int main(){
             case 4:
                 printf("Nombre del archivo a guardar: ");
                 scanf("%s", archivo);
-                guardar_contactos(archivo,*&agenda*);
+                guardar_contactos(archivo,&agenda);
                 printf("Contactos guardados.\n");
                 break;
             
