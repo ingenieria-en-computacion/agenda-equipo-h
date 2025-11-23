@@ -27,7 +27,7 @@ int main(){
         mostrar_menu();
         scanf("%d",&opcion);
         switch(opcion){
-            case1:{
+            case 1:{
                 Contacto c;
                 printf("Agregar contacto\n");
                 leer_contacto(&c);
