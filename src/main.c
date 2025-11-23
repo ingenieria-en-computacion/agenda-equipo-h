@@ -10,7 +10,7 @@ void mostrar_menu(){
     printf("3. Mostrar agenda\n");
     printf("4. Guardar contactos en archivo\n");
     printf("5. Cargar los contactos desde archivo\n");
-    printf("6 . salir\n");
+    printf("6. Salir\n");
     
 }
 
