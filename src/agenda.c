@@ -1,5 +1,6 @@
 #include "agenda.h"
 #include <stdio.h>
+#include <string.h>
 
 /**
  * Esta función se encarga de iniciar el número de contactos a cero
